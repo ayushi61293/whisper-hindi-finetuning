@@ -1,0 +1,29 @@
+# Core ML
+torch
+torchaudio
+transformers
+datasets
+evaluate
+
+# Audio processing
+librosa
+soundfile
+
+# Data & utilities
+numpy
+pandas
+tqdm
+scikit-learn
+
+# ASR metrics
+jiwer
+
+# Hindi number normalization
+num2words
+
+# Environment variables
+python-dotenv
+
+# HuggingFace
+huggingface-hub
+accelerate
